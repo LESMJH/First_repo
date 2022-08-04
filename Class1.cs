@@ -8,10 +8,7 @@ namespace GitPractice.First_repo
 {
     class Class1
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("I work for les!");
-        }
+        public string first = "My first branch test";
+        public string comp = "LEading edge solutions";
     }
 }
